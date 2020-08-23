@@ -7,7 +7,7 @@
 
  -  Just say / Type, " **Talk to shanmuk Resume Bott** " in **Google Assistant**
  -  Ask about **my resume topics** it will say all about me (or) you can go through the **suggestion tips** to know about me
- -  It will open my app for all **android users** and **IOS users** who have **google asisstant**
+ -  It will open my app for all **android users** and **IOS users** who have **google assistant**
 
 
 
