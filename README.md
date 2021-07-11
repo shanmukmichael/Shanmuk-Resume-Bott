@@ -1,7 +1,7 @@
 <h1 style="text-align:center">C H A T  B O T</h1>
  
 <p align="center">
-  <img widht ="200" height="200" src="https://user-images.githubusercontent.com/55943851/89507940-d4290a80-d7ea-11ea-9ec1-9999cfcd960e.jpg"><br><br>
+  <img widht ="100" height="100" src="https://user-images.githubusercontent.com/55943851/89507940-d4290a80-d7ea-11ea-9ec1-9999cfcd960e.jpg"><br><br>
 </p>
   
 
