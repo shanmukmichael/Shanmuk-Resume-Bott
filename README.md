@@ -12,9 +12,5 @@
 
 
 <p align="center"><br><br>
-  <img widht ="300" height="300" src="https://user-images.githubusercontent.com/55943851/82728945-52f4c800-9d11-11ea-9f0a-061c2a225a72.png">
+  <img widht ="500" height="500" src="https://user-images.githubusercontent.com/55943851/125187822-22daf200-e24f-11eb-9916-03e95f033305.jpg">
 </p>
-  
-<p align="center">
-![bot](https://user-images.githubusercontent.com/55943851/125187822-22daf200-e24f-11eb-9916-03e95f033305.jpg)
-  
